@@ -14,8 +14,8 @@ export class Learnit2022KsCoachAppBackendStack extends Stack {
         // The code that defines your stack goes here
         const uniquePrefix = 'userpooltestlalit';
         const googleClientId =
-            '823507318929-k7f4s1dd2ddl6tertrrd8nvdqj1j552m.apps.googleusercontent.com';
-        const googleClientSecret = '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';
+            '';
+        const googleClientSecret = '';
         const callbackUrl = 'https://aws-cdk.com/cognito-google/';
 
         //cognito user pool and identity pool
