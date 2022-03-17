@@ -1,6 +1,6 @@
 # cognito user pool with google authentication support.
 A simple project to create cognito user pool using aws cdk which can be deployed to the aws amazon cloud service. Amazon Cognito is aws service which provides authorization and authentication. A user pool is a user directory in Amazon Cognito. With a user pool, users can sign in to web or mobile app through Amazon Cognito.
-
+This user pool also allows to create users using google login.
 
 # This is a project for TypeScript development with CDK.
 
